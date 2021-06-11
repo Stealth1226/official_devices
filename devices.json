@@ -1,19 +1,5 @@
 [
     {
-        "name": "X2",
-        "brand": "Realme",
-        "codename": "X2",
-        "supported_versions": [
-          {
-            "version_code": "raft",
-            "version_name": "R",
-            "maintainer_name": "Vyom Desai",
-            "maintainer_git_url": "https://github.com/cannedshroud",
-            "telegram_id": "cannedshroud"
-          }
-        ]
-    },
-    {
         "name": "Redmi Note 7 Pro",
         "brand": "Xiaomi",
         "codename": "violet",
